@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Le goût avant tout</title>
+
+</head>
+<body>
+<img src="creme.jpg" width="100" height="100"><br>
+<pre>              <a href="file:///D:/Icecream/Cr%C3%A8me.html">Menu</a>                                                     <a href="file:///D:/Icecream/Toutlesrecettes.html">Recettes</a>                                                        <a href="file:///D:/Icecream/apropos.html">À propos</a>                                      <a href="file:///D:/Icecream/contact.html">Nous contacter</a></pre>
+<h1> Les crèmes essentielles de la pâtisserie française </h1>
+
+<p1>"Cliquez sur les images pour voir la recette"</p1>
+
+
+<table border cellpadding="100" cellspacing="100">
+<tr>
+<td>LA CRÈME PÂTISSIÈRE</td>
+<td><a href="file:///D:/Icecream/cremepatissiere.html"><img src="patissier.jpg" width="200" height="200"></a> </td>
+<td>
+Description: <link rel="stylesheet" href="creme.CSS">Crème aux oeufs onctueuse, souvent aromatisé à la vanille.</p1>
+</td>
+</tr>
+</table>
+
+<table border cellpadding="100" cellspacing="100">
+<tr>
+<td>LA CRÈME CHIBOUST</td>
+<td><a href="file:///D:/Icecream/cremechidoust.html"><img src="chiboust.jpg" width="250" height="250"></a> </td>
+<td>
+Description: <link rel="stylesheet" href="creme.CSS">Crème légère réalisée avec de la crème pâtissière bouillante et un appareil à meringue italienne.</p1>
+</td>
+</tr>
+</table>
+
+<table border cellpadding="100" cellspacing="100">
+<tr>
+<td>LA CRÈME DIPLOMATE</td>
+<td><a href="file:///D:/Icecream/cremediplomate.html"><img src="diplomate.jpg" width="250" height="250"></a> </td>
+<td>
+Description: <link rel="stylesheet" href="creme.CSS">Crème légère réalisée avec de la crème pâtissière et de la crème fouettée.</p1>
+</td>
+</tr>
+</table>
+
+<table border cellpadding="100" cellspacing="100">
+<tr>
+<td>LA CRÈME ANGLAISE</td>
+<td><a href="file:///D:/Icecream/cremeanglaise.html"><img src="anglaise.jpg" width="250" height="250"></a> </td>
+<td>
+Description: <link rel="stylesheet" href="creme.CSS">Crème fine et légère réalisée avec du lait, du sucre, des jaunes d,oeuf et souvent de la vanille.</p1>
+</td>
+</tr>
+</table>
+
+<table border cellpadding="100" cellspacing="100">
+<tr>
+<td>LA CRÈME MOUSSELINE</td>
+<td><a href="file:///D:/Icecream/crememousseline.html"><img src="mousseline.jpg" width="250" height="250"></a> </td>
+<td>
+Description: <link rel="stylesheet" href="creme.CSS">Crème battue et mousseuse obtenue en montant de la crème pâtissière et du beurre.</p1>
+</td>
+</tr>
+</table>
+
+<table border cellpadding="100" cellspacing="100">
+<tr>
+<td>LA CRÈME AU BEURRE</td>
+<td><a href="file:///D:/Icecream/cremeaubeurre.html"><img src="beurre.jpg" width="250" height="250"></a> </td>
+<td>
+Description: <link rel="stylesheet" href="creme.CSS">Crème composée principalement de beurre pommade et du sucrée cuit, à la meringue ou autre, selon les cas.</p1>
+</td>
+</tr>
+</table>
+
+<table border cellpadding="100" cellspacing="100">
+<tr>
+<td>LA CRÈME MONTÉE</td>
+<td><a href="file:///D:/Icecream/crememont%C3%A9e.html"><img src="montée.jpg" width="250" height="250"></a> </td>
+<td>
+Description: <link rel="stylesheet" href="creme.CSS">Pour réaliser une crème montée lisse et brillante il suffit de battre une crème liquide. Elle peut accompagner des fruits frais ou encore des pâtisseries.</p1>
+</td>
+</tr>
+</table>
+
+<table border cellpadding="100" cellspacing="100">
+<tr>
+<td>LA CRÈME D'AMANDE</td>
+<td><a href="file:///D:/Icecream/cremedamande.html"><img src="amande.jpg" width="250" height="150"></a> </td>
+<td>
+Description: <link rel="stylesheet" href="creme.CSS">Crème battue obtenue en mélangeant pour l'essentiel du beurre, du sucre et de la poudre d'amande.</p1>
+</td>
+</tr>
+</table>
+
+<table border cellpadding="100" cellspacing="100">
+<tr>
+<td>LA CRÈME FRANGIPANE</td>
+<td><a href="file:///D:/Icecream/cremefrangipane.html"><img src="frangipane.jpg" width="250" height="250"></a> </td>
+<td>
+Description: <link rel="stylesheet" href="creme.CSS">Crème d'amande mélangée à de la crème pâtissière.</p1>
+</td>
+</tr>
+</table>
+
+<table border cellpadding="100" cellspacing="100">
+<tr>
+<td>LA CRÈME CHANTILLY</td>
+<td><a href="file:///D:/Icecream/cremechantilly.html"><img src="chantilly.jpg" width="250" height="200"></a> </td>
+<td>
+Description: <link rel="stylesheet" href="creme.CSS">Crème fouettée légère qu'on obtient en montant de la crème fraîche bien froide avec du sucre et de la vanille.</p1>
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>
